@@ -1,7 +1,7 @@
 project:
   type: website
   output-dir: docs
-
+  
 website:
   title: "temp_website"
   favicon: favicon.png
@@ -14,11 +14,10 @@ website:
 
 format:
   html:
-    theme: darkly
+    theme: lumen
     css: styles.css
     toc: true
     toc-depth: 3
     toc-location: left
-
 
 
