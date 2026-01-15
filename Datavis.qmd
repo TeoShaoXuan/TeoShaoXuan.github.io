@@ -2,4 +2,4 @@
 title: "Datavis"
 ---
 
-![Dataimage](Datavis.jpg){width=80%}
+![Dataimage](imgs/Datavis.jpg){width=80%}

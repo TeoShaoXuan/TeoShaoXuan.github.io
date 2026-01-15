@@ -12,6 +12,7 @@ website:
         text: Home
       - about.qmd
       - Datavis.qmd
+      - Reflection.qmd
 
 format:
   html:
