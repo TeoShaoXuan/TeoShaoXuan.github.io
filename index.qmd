@@ -3,6 +3,3 @@ title: "Personal website"
 ---
 Hello,I am shao xuan making this website for AAI1001 Assignment This is my 2nd year in SIT.
 
-```{r}
-1 + 1
-```

@@ -18,7 +18,7 @@
     "href": "Datavis.html",
     "title": "Datavis",
     "section": "",
-    "text": "This bar chart showcases the dine-in and takeaway order across all the stalls by month. Users have the option to filter the result by selecting a specific stall from a dropdown menu if they are interested.\n\nThis graph displays the number of volunteers that have registered for that charity’s activity.\ni think this was the best way that i had to visualize these data at the time."
+    "text": "This page showcases a couple of data visualisations from my project."
   },
   {
     "objectID": "Reflection.html",
@@ -26,5 +26,33 @@
     "title": "Reflection on the use of GenAI",
     "section": "",
     "text": "Throughout my time in Uni. GenAI has been a huge help to me. As it is incredibly accessible to everyone. but due to that accessibility i fear that i am relying on it too much. using it too much when i encounter a simple problem.\nI have been using it to help me study and sometimes asking it to generate questions for me to test knowledge on if there are no mock tests available one the Xsite."
+  },
+  {
+    "objectID": "Datavis.html#overview",
+    "href": "Datavis.html#overview",
+    "title": "Datavis",
+    "section": "",
+    "text": "This page showcases a couple of data visualisations from my project."
+  },
+  {
+    "objectID": "Datavis.html#graph-1-dine-in-vs-takeaway-orders",
+    "href": "Datavis.html#graph-1-dine-in-vs-takeaway-orders",
+    "title": "Datavis",
+    "section": "Graph 1: Dine-in vs Takeaway Orders",
+    "text": "Graph 1: Dine-in vs Takeaway Orders\n\nThis bar chart showcases the dine-in and takeaway order across a…ng a specific stall from a dropdown menu if they are interested."
+  },
+  {
+    "objectID": "Datavis.html#graph-2-volunteer-registrations",
+    "href": "Datavis.html#graph-2-volunteer-registrations",
+    "title": "Datavis",
+    "section": "Graph 2: Volunteer Registrations",
+    "text": "Graph 2: Volunteer Registrations\n\nThis graph displays the number of volunteers that have registered for that charity’s activity."
+  },
+  {
+    "objectID": "Datavis.html#reflection",
+    "href": "Datavis.html#reflection",
+    "title": "Datavis",
+    "section": "Reflection",
+    "text": "Reflection\ni think this was the best way that i had to visualize these data at the time. These visualizations turn our system’s transactional and volunteering data into actionable insights. They are developed through SQL data aggregation on the backend and dynamic javascript on the frontend, enhancing the user experience, thus making the trends page an integral feature for the website."
   }
 ]

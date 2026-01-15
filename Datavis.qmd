@@ -2,12 +2,29 @@
 title: "Datavis"
 ---
 
+## Overview
+
+This page showcases a couple of data visualisations from my project.
+
+
+
+## Graph 1: Dine-in vs Takeaway Orders
+
 ![](imgs/Datavis.jpg){width=80%}
 
-This bar chart showcases the dine-in and takeaway order across all the stalls by month. Users have the option to filter the result by selecting a specific stall from a dropdown menu if they are interested.
+This bar chart showcases the dine-in and takeaway order across a...ng a specific stall from a dropdown menu if they are interested.
+
+
+
+## Graph 2: Volunteer Registrations
 
 ![](imgs/Datavis 2.jpg){width=80%}
 
 This graph displays the number of volunteers that have registered for that charity’s activity.
 
+
+
+## Reflection
+
 i think this was the best way that i had to visualize these data at the time.
+These visualizations turn our system’s transactional and volunteering data into actionable insights. They are developed through SQL data aggregation on the backend and dynamic javascript on the frontend, enhancing the user experience, thus making the trends page an integral feature for the website. 
