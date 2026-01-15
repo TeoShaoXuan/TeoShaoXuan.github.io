@@ -11,14 +11,14 @@
     "href": "about.html",
     "title": "Payment Project",
     "section": "",
-    "text": "I did a project on a payment application that require us to develop a mobile app.\n\n1 + 1\n\n[1] 2"
+    "text": "This project is about designing and developing a complete order and redeem rewards application. This system allows users to accumulate points by engaging in volunteer activities, and they can use the points to place orders of food and beverage (F&B) in merchants on campus. The solution will consist of a mobile app and a web page. The mobile app comprises NETS QR payment option, and NETS Click mobile payment simulators along with several APIs like F&B merchants and volunteer charities to provide a smooth user experience. The web page contains an analytics dashboard that provides useful insights for users. The project will have three distinct segments: (1) a Flutter-programmed mobile app where volunteers can keep track and use rewards; (2) ties with the NETS payment APIs to make test purchases; and (3) a web-based analytics dashboard in which to observe trends in F&B purchases and volunteer activities. The team used full-stack development principles, user-centered design, and agile project management over a period of three months development cycle. The solution contributes to the efficiency of the process of food ordering on campus and redemption of reward points. It enables us, as students, to obtain skillsets that are important in FinTech and the digital industry in Singapore.\n This was a Figma prototype for the mobile application interface."
   },
   {
     "objectID": "Datavis.html",
     "href": "Datavis.html",
     "title": "Datavis",
     "section": "",
-    "text": "Dataimage"
+    "text": "Dataimage\n\n\nThis bar chart showcases the dine-in and takeaway order across all the stalls by month. Users have the option to filter the result by selecting a specific stall from a dropdown menu if they are interested.\n\n\n\nDataimage\n\n\nThis graph displays the number of volunteers that have registered for that charity’s activity.\ni think this was the best way that i had to visualize these data."
   },
   {
     "objectID": "Reflection.html",
