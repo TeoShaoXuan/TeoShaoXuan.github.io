@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "Payment Project",
     "section": "",
-    "text": "This project is about designing and developing a complete order and redeem rewards application. This system allows users to accumulate points by engaging in volunteer activities, and they can use the points to place orders of food and beverage (F&B) in merchants on campus. Our solution was a mobile app and a web page. The mobile app comprises NETS QR payment option, and NETS Click mobile payment simulators along with several APIs like F&B merchants and volunteer charities to provide a smooth user experience. The web page contains an analytics dashboard for users. The project has three distinct segments: a Flutter-programmed mobile app where volunteers can keep track and use rewards; ties with the NETS payment APIs to make test purchases; and a web-based analytics dashboard in which to observe trends in F&B purchases and volunteer activities. The solution contributes to the efficiency of the process of food ordering on campus and redemption of reward points. It enables us students, to obtain skillsets that are important in FinTech and the digital industry in Singapore.\n\nThis was a Figma prototype for the mobile application interface."
+    "text": "This project is about designing and developing a complete order and redeem rewards application. This system allows users to accumulate points by engaging in volunteer activities, and they can use the points to place orders of food and beverage (F&B) in merchants on campus. Our solution was a mobile app and a web page."
   },
   {
     "objectID": "Datavis.html",
@@ -54,5 +54,40 @@
     "title": "Datavis",
     "section": "Reflection",
     "text": "Reflection\ni think this was the best way that i had to visualize these data at the time. These visualizations turn our system’s transactional and volunteering data into actionable insights. They are developed through SQL data aggregation on the backend and dynamic javascript on the frontend, enhancing the user experience, thus making the trends page an integral feature for the website."
+  },
+  {
+    "objectID": "about.html#project-summary",
+    "href": "about.html#project-summary",
+    "title": "Payment Project",
+    "section": "",
+    "text": "This project is about designing and developing a complete order and redeem rewards application. This system allows users to accumulate points by engaging in volunteer activities, and they can use the points to place orders of food and beverage (F&B) in merchants on campus. Our solution was a mobile app and a web page."
+  },
+  {
+    "objectID": "about.html#solution-components",
+    "href": "about.html#solution-components",
+    "title": "Payment Project",
+    "section": "Solution Components",
+    "text": "Solution Components\nThe mobile app comprises NETS QR payment option, and NETS Click mobile payment simulators along with several APIs like F&B merchants and volunteer charities to provide a smooth user experience. The web page contains an analytics dashboard for users."
+  },
+  {
+    "objectID": "about.html#project-segments",
+    "href": "about.html#project-segments",
+    "title": "Payment Project",
+    "section": "Project Segments",
+    "text": "Project Segments\nThe project has three distinct segments: a Flutter-programmed mobile app where volunteers can keep track and use rewards; ties with the NETS payment APIs to make test purchases; and a web-based analytics dashboard in which to observe trends in F&B purchases and volunteer activities."
+  },
+  {
+    "objectID": "about.html#impact",
+    "href": "about.html#impact",
+    "title": "Payment Project",
+    "section": "Impact",
+    "text": "Impact\nThe solution contributes to the efficiency of the process of food ordering on campus and redemption of reward points. It enables us students, to obtain skillsets that are important in FinTech and the digital industry in Singapore."
+  },
+  {
+    "objectID": "about.html#prototype-snapshot-figma",
+    "href": "about.html#prototype-snapshot-figma",
+    "title": "Payment Project",
+    "section": "Prototype Snapshot (Figma)",
+    "text": "Prototype Snapshot (Figma)\n\nThis was a Figma prototype for the mobile application interface."
   }
 ]
