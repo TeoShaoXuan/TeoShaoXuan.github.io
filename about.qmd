@@ -1,9 +1,7 @@
 ---
 title: "Payment Project"
 ---
-
-About this site
-
+I did a project on a payment application that require us to develop a mobile app.
 ```{r}
 1 + 1
 ```
