@@ -1,22 +1,40 @@
 ---
 title: "Payment Project"
 ---
+
+## Project Summary
+
 This project is about designing and developing a complete order and redeem rewards application. This system
 allows users to accumulate points by engaging in volunteer activities, and they can use the points to place orders
 of food and beverage (F&B) in merchants on campus. Our solution was a mobile app and a web page.
+
+
+
+## Solution Components
+
 The mobile app comprises NETS QR payment option, and NETS Click mobile payment simulators along with
 several APIs like F&B merchants and volunteer charities to provide a smooth user experience. The web page
 contains an analytics dashboard for users.
+
+
+
+## Project Segments
+
 The project has three distinct segments:  a Flutter-programmed mobile app where volunteers can keep
 track and use rewards; ties with the NETS payment APIs to make test purchases; and a web-based
 analytics dashboard in which to observe trends in F&B purchases and volunteer activities.
+
+
+## Impact
+
 The solution contributes to the efficiency of the process of food ordering on campus and redemption of reward
 points. It enables us students, to obtain skillsets that are important in FinTech and the digital industry in
 Singapore.
 
+
+
+## Prototype Snapshot (Figma)
+
 ![](imgs/Figma.jpg){width=80%}
 
-
-This was a Figma prototype for the mobile application interface. 
-
-  
+This was a Figma prototype for the mobile application interface.
