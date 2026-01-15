@@ -1,11 +1,6 @@
 ---
-title: "temp_website"
+title: "Personal website"
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
 Hello,I am shao xuan making this website for AAI1001 Assignment This is my 2nd year in SIT.
 
 ```{r}

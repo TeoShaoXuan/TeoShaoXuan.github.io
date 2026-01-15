@@ -2,12 +2,12 @@
 title: "Datavis"
 ---
 
-![Dataimage](imgs/Datavis.jpg){width=80%}
+![](imgs/Datavis.jpg){width=80%}
 
 This bar chart showcases the dine-in and takeaway order across all the stalls by month. Users have the option to filter the result by selecting a specific stall from a dropdown menu if they are interested.
 
-![Dataimage](imgs/Datavis2.jpg){width=80%}
+![](imgs/Datavis 2.jpg){width=80%}
 
 This graph displays the number of volunteers that have registered for that charity’s activity.
 
-i think this was the best way that i had to visualize these data.
+i think this was the best way that i had to visualize these data at the time.
